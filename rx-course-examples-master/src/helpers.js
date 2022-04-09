@@ -12,8 +12,6 @@ export const sampleData = ajax.getJSON('https://jsonplaceholder.typicode.com/use
     )
 )
 
-
-
 export const add = {
   li: printLi,
   div: printDiv,

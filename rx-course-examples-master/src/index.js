@@ -1,4 +1,4 @@
-import './'
+import './concat-all'
 
 document.addEventListener('DOMContentLoaded', function() {
     
