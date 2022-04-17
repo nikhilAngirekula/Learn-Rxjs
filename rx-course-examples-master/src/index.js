@@ -1,4 +1,4 @@
-import './concat-all'
+import './switchMap-example';
 
 document.addEventListener('DOMContentLoaded', function() {
     
