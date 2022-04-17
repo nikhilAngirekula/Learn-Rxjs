@@ -1,4 +1,4 @@
-import './switchMap-example';
+import './exhaust-map';
 
 document.addEventListener('DOMContentLoaded', function() {
     
